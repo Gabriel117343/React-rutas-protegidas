@@ -1,0 +1,40 @@
+nav {
+  background: blue;
+  color: white;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+ul {
+  display: flex;
+}
+ul li {
+  list-style: none;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  
+}
+.link:hover {
+  color: yellow;
+  font-weight: bold;
+}
+button {
+  width: 200px;
+  height: 50px;
+  background: green;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 15px;
+}
+.titulo  {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  border: 1px solid white;
+}
